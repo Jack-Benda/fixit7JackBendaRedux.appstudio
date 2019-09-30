@@ -13,7 +13,6 @@ alert(`character at the 3rd position of secondQuote is` + secondQuote.charAt(3))
 
 
 findString = secondQuote.slice(34)
-alert(findString)
+
 
 console.log(findString)
-//question on the word file
